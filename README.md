@@ -1,4 +1,4 @@
-### Hello! I am [GoodBoyNeon](https://goodboyneon.cf)
+### **Hello! I am [GoodBoyNeon](https://goodboyneon.cf)**
 *Hey! thanks for visiting my profile! I am a high-school programmer. I mostly spend my day in nodejs but trying to learn java. I mostly work on discord bots, sometimes some html or css or typeScript.*
 
 <!--
