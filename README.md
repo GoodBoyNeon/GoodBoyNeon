@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! I am [GoodBoyNeon](https://goodboyneon.cf)
+*Hey! thanks for visiting my profile! I am a high-school programmer. I mostly spend my day in nodejs but trying to learn java. I mostly work on discord bots, sometimes some html or css or typeScript.*
 
 <!--
 **GoodBoyNeon/GoodBoyNeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
