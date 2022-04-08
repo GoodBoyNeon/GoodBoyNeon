@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on [Cheeku Bot](https://github.com/ImagineGamingPlay/Cheeku-Development)
 - 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with Some basic java stuff
+- 👯 I’m looking forward for team projects
+- 🤔 I’m looking for chit-chats with Some basic java
 - 💬 Ask me about Javascript, I know it all
-- 📫 How to reach me: [My twitter profile](https://twitter.com/NeonFavor)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am funny :)
