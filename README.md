@@ -1,6 +1,8 @@
 ## Hello! I am [GoodBoyNeon](https://goodboyneon.cf)
 *Hey! thanks for visiting my profile! I am a high-school programmer. I mostly spend my day in nodejs but trying to learn java. I mostly work on discord bots, sometimes some html or css or typeScript.*
 
+<img src="https://discord.c99.nl/widget/theme-4/816253376962625537.png">
+
 <br/>
 
 - 🔭 I’m currently working on [Cheeku Bot](https://github.com/ImagineGamingPlay/Cheeku-Development)
@@ -29,9 +31,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-
-<img src="https://discord.c99.nl/widget/theme-4/816253376962625537.png">
-<img src="https://discord.c99.nl/widget/theme-3/816253376962625537.png"/>
 
 ### Languages and Tools
 
