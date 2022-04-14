@@ -30,6 +30,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
+<img src="https://discord.c99.nl/widget/theme-4/816253376962625537.png">
+
 ### Languages and Tools
 
 <p align="left"> 
