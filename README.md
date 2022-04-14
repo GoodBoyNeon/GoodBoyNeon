@@ -1,8 +1,6 @@
 ## Hello! I am [GoodBoyNeon](https://goodboyneon.cf)
 *Hey! thanks for visiting my profile! I am a high-school programmer. I mostly spend my day in nodejs but trying to learn java. I mostly work on discord bots, sometimes some html or css or typeScript.*
 
-<img src="https://discord.c99.nl/widget/theme-4/816253376962625537.png">
-
 <br/>
 
 - 🔭 I’m currently working on [Cheeku Bot](https://github.com/ImagineGamingPlay/Cheeku-Development)
@@ -17,20 +15,17 @@
 
 ### Connect with me
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://goodboyneon.cf#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://goodboyneon.cf#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/GoodBoyNeon#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/GoodBoyNeon#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+<!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp; -->
+[![website](./img/instagram-light.svg)](https://instagram.com/goodboyneon#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/goodboyneon#gh-dark-mode-only)
 
 ### Languages and Tools
 
