@@ -1,5 +1,5 @@
 ## Hello! I am [GoodBoyNeon](https://goodboyneon.cf)
-*Hey! thanks for visiting my profile! I am a high-school programmer. I mostly spend my day in nodejs but trying to learn java. I mostly work on discord bots, sometimes I do some web development.*
+*Hey! thanks for visiting my profile! I am a high-school programmer. I spend my day in NodeJS and Typescript. I mostly work on discord bots, but sometimes I do some web development too!.*
 
 
 
@@ -41,5 +41,3 @@ I'm a backend engineer and discord bot developer based in Nepal. I am currently 
 😄 Pronouns **He/Him**
 
 ⚡️ Fun fact **My first line of code wasn't any hello world scripts!**
-
-[![GoodBoyNeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodBoyNeon&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
