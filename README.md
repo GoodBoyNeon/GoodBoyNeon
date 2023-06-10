@@ -40,4 +40,4 @@ I'm a backend engineer and discord bot developer based in Nepal. I am currently 
 
 😄 Pronouns **He/Him**
 
-⚡️ Fun fact **My first line of code wasn't any hello world scripts!**
+⚡️ Fun fact **My first line of code wasn't a "Hello World!" script**
