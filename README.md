@@ -36,7 +36,7 @@ I'm a backend engineer and discord bot developer based in Nepal. I am currently 
 
 💬 Ask me about **discord.js**
 
-📫 How to reach me: **goodboyneon03@gmail.com**
+📫 How to reach me: **contact@neon.is-a.dev**
 
 😄 Pronouns **He/Him**
 
