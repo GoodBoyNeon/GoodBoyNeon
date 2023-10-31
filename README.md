@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I'm a backend engineer and discord bot developer based in Nepal. I am currently in school with the aim to be a software engineer in the near future!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/neonthenerd?style=for-the-badge&logo=twitter)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NeonTheNerd?style=for-the-badge&logo=twitter&color=%231d9bf0)
 
 ## 🛠 Skills
 
