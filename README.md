@@ -1,10 +1,10 @@
 ## Hello! I am [GoodBoyNeon](https://neon.is-a.dev)
-> *Hey! thanks for visiting my profile! I am a high-school programmer. I spend my day in NodeJS and Typescript. I mostly work on discord bots, but sometimes I do some web development too!.*
+> *I am a high-school programmer. I spend most of my day in Rust and Typescript.*
 
 
 
 ## 🚀 About Me
-I'm a backend engineer and discord bot developer based in Nepal. I am currently in school with the aim to be a software engineer in the near future!
+I'm a backend engineer and discord bot developer based in Nepal. I am currently in school intending to be a software engineer soon!
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NeonTheNerd?style=for-the-badge&logo=twitter&color=%231d9bf0)
 
@@ -27,19 +27,3 @@ I'm a backend engineer and discord bot developer based in Nepal. I am currently 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GoodBoyNeon)
 
 <img src="https://discord.c99.nl/widget/theme-4/816253376962625537.png">
-
-
-## Other Information
-👩‍💻 I'm currently working on **Discord bot dashboards**
-
-🧠 I'm currently learning **Java**
-
-🤔 I'm looking for help with **Backend Development roadmap**
-
-💬 Ask me about **discord.js**
-
-📫 How to reach me: **contact@neon.is-a.dev**
-
-😄 Pronouns **He/Him**
-
-⚡️ Fun fact **My first line of code wasn't a "Hello World!" script**
