@@ -1,10 +1,8 @@
 ## Hello! I am [GoodBoyNeon](https://neon.is-a.dev)
-> *I am a high-school programmer. I spend most of my day in Rust and Typescript.*
-
-
+> *I code as a hobby, cause well... it's hard to find time as a high-schooler. I do spend most of my day in Rust and Typescript, though!*
 
 ## 🚀 About Me
-I'm a backend engineer and discord bot developer based in Nepal. I am currently in school intending to be a software engineer soon!
+I'm a backend engineer and discord bot developer based in Nepal.
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NeonTheNerd?style=for-the-badge&logo=twitter&color=%231d9bf0)
 
