@@ -1,5 +1,5 @@
 ## Hello! I am [GoodBoyNeon](https://neon.is-a.dev)
-> *I code as a hobby, cause well... it's hard to find time as a high-schooler. I do spend most of my day in Rust and Typescript, though!*
+> *I code as a hobby, cause well... it's hard to find time as a high-schooler. I spend most of my day in Rust and Typescript!*
 
 ## 🚀 About Me
 I'm a backend engineer and discord bot developer based in Nepal.
@@ -20,8 +20,8 @@ I'm a backend engineer and discord bot developer based in Nepal.
 </p>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://goodboyneon.cf/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://neon.is-a.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-ray-895054249/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GoodBoyNeon)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NeonTheNerd)
 
 <img src="https://discord.c99.nl/widget/theme-4/816253376962625537.png">
