@@ -1,10 +1,10 @@
 ## Hello! I am [GoodBoyNeon](https://neon.is-a.dev)
-> *I code as a hobby, cause well... it's hard to find time as a high-schooler. I spend most of my day in Rust and Typescript!*
+> *I code as a hobby, cause well... it's hard to find time as a high-schooler. I spend most of my day in Typescript :)*
 
 ## 🚀 About Me
 I'm a backend engineer and discord bot developer based in Nepal.
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NeonTheNerd?style=for-the-badge&logo=twitter&color=%231d9bf0)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NeonTheNerd?style=for-the-badge&logo=x&color=%231d9bf0)
 
 ## 🛠 Skills
 
@@ -24,4 +24,8 @@ I'm a backend engineer and discord bot developer based in Nepal.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-ray-895054249/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NeonTheNerd)
 
-<img src="https://discord.c99.nl/widget/theme-4/816253376962625537.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://discord.c99.nl/widget/theme-4/816253376962625537.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://discord.c99.nl/widget/theme-5/816253376962625537.png">
+  <img alt="Fallback image description" src="default-image.png">
+</picture>
